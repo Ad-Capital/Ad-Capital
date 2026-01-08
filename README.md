@@ -21,43 +21,67 @@
 
 <hr/>
 
-<h3>🛠 Languages & Tools</h3>
+<h3 align="center">🛠 Tech Stack</h3>
 
 <!-- FRONTEND -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="38"/>
+<p align="center">
+<b>Frontend</b><br/><br/>
+<img src="https://simpleicons.org/icons/html5.svg" width="38"/>
+<img src="https://simpleicons.org/icons/css3.svg" width="38"/>
+<img src="https://simpleicons.org/icons/javascript.svg" width="38"/>
+<img src="https://simpleicons.org/icons/typescript.svg" width="38"/>
+<img src="https://simpleicons.org/icons/react.svg" width="38"/>
+<img src="https://simpleicons.org/icons/nextdotjs.svg" width="38"/>
+<img src="https://simpleicons.org/icons/tailwindcss.svg" width="38"/>
+<img src="https://simpleicons.org/icons/sass.svg" width="38"/>
+</p>
 
-<br/><br/>
+<br/>
 
 <!-- MOBILE -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="38"/>
+<p align="center">
+<b>Mobile</b><br/><br/>
+<img src="https://simpleicons.org/icons/react.svg" width="38"/>
+<img src="https://simpleicons.org/icons/android.svg" width="38"/>
+</p>
 
-<br/><br/>
+<br/>
 
 <!-- BACKEND -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38"/>
+<p align="center">
+<b>Backend</b><br/><br/>
+<img src="https://simpleicons.org/icons/python.svg" width="38"/>
+<img src="https://simpleicons.org/icons/mongodb.svg" width="38"/>
+</p>
 
-<br/><br/>
+<br/>
 
 <!-- TOOLING -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="38"/>
+<p align="center">
+<b>Tooling</b><br/><br/>
+<img src="https://simpleicons.org/icons/git.svg" width="38"/>
+<img src="https://simpleicons.org/icons/linux.svg" width="38"/>
+<img src="https://simpleicons.org/icons/postman.svg" width="38"/>
+<img src="https://simpleicons.org/icons/selenium.svg" width="38"/>
+<img src="https://simpleicons.org/icons/babel.svg" width="38"/>
+<img src="https://simpleicons.org/icons/figma.svg" width="38"/>
+<img src="https://simpleicons.org/icons/framer.svg" width="38"/>
+<img src="https://simpleicons.org/icons/adobephotoshop.svg" width="38"/>
+<img src="https://simpleicons.org/icons/adobeillustrator.svg" width="38"/>
+</p>
 
-<br/><br/>
+<br/>
 
 <!-- WEB3 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="38"/>
-<img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=026" width="38"/>
-<img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" width="38"/>
-<img src="https://avatars.githubusercontent.com/u/110584652?s=200&v=4" width="38"/>
-<img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" width="38"/>
+<p align="center">
+<b>Web3</b><br/><br/>
+<img src="https://simpleicons.org/icons/solidity.svg" width="38"/>
+<img src="https://simpleicons.org/icons/ethereum.svg" width="38"/>
+<img src="https://simpleicons.org/icons/hardhat.svg" width="38"/>
+<img src="https://simpleicons.org/icons/ethers.svg" width="38"/>
+<img src="https://simpleicons.org/icons/web3dotjs.svg" width="38"/>
+</p>
+
 
 <hr/>
 
