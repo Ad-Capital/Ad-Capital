@@ -1,41 +1,105 @@
-<p align="left">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=4F46E5&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Adrian;Fullstack+Developer;Web3+Builder;UX-Focused+Engineer" />
+</h1>
+
+<h3 align="center">A dedicated developer focused on user experience.</h3>
+
+<p align="center">
+  <a href="https://lettubbe.online" target="_blank">🚀 Building Lettubbe</a> •
+  <a href="https://onaadrian.vercel.app" target="_blank">🌐 Portfolio</a> •
+  📫 adxap@gmail.com
+</p>
+
+---
+
+<h3>🤝 Connect with me</h3>
+<p>
+<a href="https://twitter.com/@ona_adriqn" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="32"/>
+</a>
+</p>
+
+---
+
+<h3>🛠 Languages & Tools</h3>
+
+<p>
 
 <!-- FRONTEND -->
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
-<a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="38"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="38"/>
 
-<br/>
+<br/><br/>
 
 <!-- MOBILE -->
-<a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" width="40"/></a>
-<a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/></a>
+<img src="https://reactnative.dev/img/header_logo.svg" width="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="38"/>
 
-<br/>
+<br/><br/>
 
 <!-- BACKEND -->
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="38"/>
 
-<br/>
+<br/><br/>
 
 <!-- TOOLING -->
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
-<a href="https://babeljs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="40"/></a>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="38"/>
+<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="38"/>
 
-<br/>
+<br/><br/>
 
 <!-- WEB3 -->
-<a href="https://soliditylang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="40"/></a>
-<a href="https://ethereum.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" width="40"/></a>
-<a href="https://hardhat.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" width="40"/></a>
-<a href="https://ethers.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethers/ethers-original.svg" width="40"/></a>
-<a href="https://web3js.readthedocs.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/web3js/web3js-original.svg" width="40"/></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" width="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" width="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethers/ethers-original.svg" width="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/web3js/web3js-original.svg" width="38"/>
 
+</p>
+
+---
+
+<h3>📊 GitHub Stats</h3>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=onaadrian&show_icons=true&theme=transparent&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=onaadrian&theme=transparent&hide_border=true" width="48%"/>
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onaadrian&layout=compact&theme=transparent&hide_border=true" width="48%"/>
+</p>
+
+---
+
+<h3>📈 Contribution Graph</h3>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=onaadrian&theme=github-compact&hide_border=true" />
+
+---
+
+<h3>🚀 Currently Building</h3>
+
+- Lettubbe – next-gen video streaming platform  
+- Web3 dApps & smart contracts  
+- Scalable mobile & web products  
+
+---
+
+<h3>⚡ Fun fact</h3>
+
+I obsess over clean UX and performance.
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=onaadrian&style=flat-square&color=4F46E5"/>
 </p>
