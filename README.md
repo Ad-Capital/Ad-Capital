@@ -16,7 +16,6 @@
 
 ## 🚀 Currently Building
 
-- **Lettubbe**: a next-generation video streaming platform
 - Web3 dApps and smart contracts
 - Scalable web &amp; mobile products
 
