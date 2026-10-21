@@ -14,10 +14,10 @@
 
 <hr/>
 
-## 🚀 Currently Building
-
-- Web3 dApps and smart contracts
-- Scalable web &amp; mobile products
+   ## Open-source contributions
+   - **rsk-cli** — EAS attestation commands (create/verify/revoke/list/schema). [Merged, Feb 2026](https://github.com/rsksmart/rsk-cli/pull/287)
+   - **rsk-mcp-server** — Attestation tools with Zod validation and `eth_getLogs` listing. [Merged, Mar 2026](https://github.com/rsksmart/rsk-mcp-server/pull/81)
+   - **rsk-cli** — `--write` support for contract calls. [In review](https://github.com/rsksmart/rsk-cli/pull/297)
 
 <hr/>
 
