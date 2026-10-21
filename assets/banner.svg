@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="ONA ISAAC — Design · Development · Audits · Lagos, NG">
+  <style>
+    text { font-family: 'Neue Haas Grotesk Display Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .hero { fill: #f0f4f1; font-size: 190px; font-weight: 500; letter-spacing: -8px; }
+    .sub { fill: #f0f4f1; opacity: .72; font-size: 17px; letter-spacing: 3px; }
+    .idx { fill: #f2ffbd; font-size: 15px; letter-spacing: 2px; }
+    .mq { fill: #28282b; font-size: 18px; font-weight: 500; letter-spacing: 4px; }
+    .float { animation: float 4s ease-in-out infinite; }
+    @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+    .track { animation: scroll 24s linear infinite; }
+    @keyframes scroll { from { transform: translateX(0); } to { transform: translateX(-1200px); } }
+    @media (prefers-reduced-motion: reduce) { .float, .track { animation: none; } }
+  </style>
+
+  <rect width="1200" height="440" fill="#28282b"/>
+
+  <text x="48" y="58" class="idx">✦ ADRIAN</text>
+  <text x="1152" y="58" class="idx" text-anchor="end">ISAACONA.COM</text>
+
+  <g>
+    <text x="40" y="215" class="hero float" style="animation-delay:0s">O</text>
+    <text x="178" y="215" class="hero float" style="animation-delay:.3s">N</text>
+    <text x="304" y="215" class="hero float" style="animation-delay:.6s">A</text>
+  </g>
+
+  <g>
+    <text x="530" y="360" class="hero float" style="animation-delay:0s">I</text>
+    <text x="578" y="360" class="hero float" style="animation-delay:.2s">S</text>
+    <text x="704" y="360" class="hero float" style="animation-delay:.4s">A</text>
+    <text x="844" y="360" class="hero float" style="animation-delay:.6s">A</text>
+    <text x="984" y="360" class="hero float" style="animation-delay:.8s">C</text>
+  </g>
+
+  <text x="48" y="292" class="sub">DESIGN · DEVELOPMENT · AUDITS</text>
+  <text x="48" y="320" class="sub">LAGOS, NG</text>
+
+  <rect y="396" width="1200" height="44" fill="#f2ffbd"/>
+  <g class="track">
+    <text x="0" y="424" class="mq" textLength="1200" lengthAdjust="spacing">FULL STACK ✦ PRODUCT DESIGN ✦ WEB3 ✦ UX AUDITS ✦ OPEN SOURCE ✦ </text>
+    <text x="1200" y="424" class="mq" textLength="1200" lengthAdjust="spacing">FULL STACK ✦ PRODUCT DESIGN ✦ WEB3 ✦ UX AUDITS ✦ OPEN SOURCE ✦ </text>
+  </g>
+</svg>
